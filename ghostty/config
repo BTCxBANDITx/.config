@@ -1,0 +1,32 @@
+theme = Laser
+window-theme = ghostty
+
+font-family = "Xanh Mono"
+font-family-italic = "Xanh Mono"
+font-feature = +feat
+font-size = 22
+
+bold-is-bright = true
+cursor-style = block_hollow
+cursor-style-blink = true
+mouse-hide-while-typing = true
+focus-follows-mouse = true
+
+background-opacity = .25
+
+title = " "
+macos-titlebar-style = transparent
+window-decoration = none
+window-inherit-working-directory = true
+working-directory = inherit
+
+gtk-single-instance = true
+quit-after-last-window-closed = true
+shell-integration = detect
+
+clipboard-read = allow
+clipboard-write = allow
+clipboard-trim-trailing-spaces = true
+clipboard-paste-protection = false
+clipboard-paste-bracketed-safe = true
+copy-on-select = clipboard
